@@ -1,4 +1,9 @@
 # NoteFlow AI - Intelligent Study Companion 🧠✨
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Groq](https://img.shields.io/badge/Powered%20by-Groq-f55036?style=flat)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **NoteFlow AI** is a premium, AI-powered web application designed to accelerate the learning process. It instantly transforms unstructured educational materials—such as massive textbook PDFs or messy lecture transcripts—into perfectly structured executive summaries and active-recall flashcards. 
 
@@ -75,8 +80,8 @@ Follow these steps to get a local development environment up and running.
 Clone the repository and set up the Python environment:
 
 ```bash
-git clone [https://github.com/yourusername/noteflow-ai.git](https://github.com/yourusername/noteflow-ai.git)
-cd noteflow-ai/backend
+git clone [https://github.com/Chitra-ai-coder/NoteFlow-AI---Notes-Summariser.git](https://github.com/Chitra-ai-coder/NoteFlow-AI---Notes-Summariser.git)
+cd NoteFlow-AI---Notes-Summariser/backend
 
 # Create and activate a virtual environment
 python -m venv venv
